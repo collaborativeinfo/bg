@@ -27,3 +27,8 @@
 - [Какво да правим ако не се чувстваме добре?](./covid-19/discomfort_steps.md)
 - [Какво да правя с финансите по време на карантината?](./covid-19/finance_quarantine.md)
 - [Анализи и коментари](./covid-19/research.md)
+
+Replicated at:
+
+https://gitlab.com/collaborative/infobg/-/tree/master/x
+https://github.com/collaborativeinfo/bg
