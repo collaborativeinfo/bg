@@ -30,7 +30,20 @@ https://www.ebi.ac.uk/Tools/services/web/toolresult.ebi?jobId=clustalo-I20200315
 
 ## Хипотетични причини за усложнения
 
-### Специфичен Радиофон
+### Специфичен Радиофон допринасящ за
+
+- Спомагане размножаване на вируси [^1]
+
+- Hematopoietic and intestinal systems side effects are frequently found in patients who suffered from accidental or medical radiation exposure. [^2]
+
+
+Съществен проблем е че липсва информация за конкретни честоти и интензитет на използваните мрежи, които крайните клиенти използват във Wuhan и Milano.
+Липсва информация и за честотите на тестовите постановки по света които се монтират началото на 2020.
+
+Липсват тестови анализи за ефектите от 5G
+Тестове с мишки или хора от FCC или друга институция отсъства в интернет пространството.
+
+### Хронология на промяна на Радиофона по света от 5G
 
 [EUROPAEM EMF Guideline 2016](https://www.ncbi.nlm.nih.gov/pubmed/27454111)
 
@@ -39,8 +52,6 @@ https://www.ebi.ac.uk/Tools/services/web/toolresult.ebi?jobId=clustalo-I20200315
 [Taiwan is saved](https://www.dw.com/bg/как-/a-52752426)
 Taiwan did not report a case in the statistics
 https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200313-sitrep-53-covid-19.pdf?sfvrsn=adb3f72_2
-
-https://www.scholarsresearchlibrary.com/articles/a-brief-review-microwave-assisted-organic-reaction.pdf
 
 https://www.youtube.com/watch?v=DIV39-KOzh0
 
@@ -51,3 +62,6 @@ https://www.vodafone5g.it/5G-a-milano.php?lang=EN
 https://www.lifewire.com/5g-availability-world-4156244
 
 http://www.defenddemocracy.press/scientists-warn-of-potential-serious-health-effects-of-5g/
+
+[^1]: https://www.scholarsresearchlibrary.com/articles/a-brief-review-microwave-assisted-organic-reaction.pdf
+[^2]: https://www.ncbi.nlm.nih.gov/pubmed/31931652
