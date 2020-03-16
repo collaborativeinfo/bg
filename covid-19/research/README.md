@@ -48,10 +48,10 @@ https://www.ebi.ac.uk/Tools/services/web/toolresult.ebi?jobId=clustalo-I20200315
 
 Първите случаи са открити при [прилепи и камили](https://duma.bg/?go=news&p=detail&nodeId=102614).
 
-(Допирът на Китайците до животински секрети.)[https://www.youtube.com/watch?v=rbHxeOQA1Mc]
+[Допирът на Китайците до животни и секрети е умопомрачаващ.](https://www.youtube.com/watch?v=rbHxeOQA1Mc)
 
 _Колко време здрав човек може да е преносител на вируса?_
-_Възможно ли е при здрава имунна система вирусната амино киселина да се разгражда бързо?_
+_Може ли да се установят граници за излагане на вируса и състояние на метаболизма при които вируса няма да се прояви?_
 
 ## Хипотетични причини за летални усложнения при SARS-CoV
 
@@ -69,9 +69,13 @@ _Възможно ли е при здрава имунна система вир
 
 Липсват тестови анализи за ефектите от 5G
 
-### Хронология на промяна на Радиофона по света от 5G
+### Изследвания за влияние на 5G
 
 [EUROPAEM EMF Guideline 2016](https://www.ncbi.nlm.nih.gov/pubmed/27454111)
+
+http://www.defenddemocracy.press/scientists-warn-of-potential-serious-health-effects-of-5g/
+
+### Статистика за покритие на 5G
 
 [Taiwan bids.](https://www.digitimes.com/news/a20200116PD221.html)
 
@@ -87,13 +91,11 @@ https://www.vodafone5g.it/5G-a-milano.php?lang=EN
 
 https://www.lifewire.com/5g-availability-world-4156244
 
-http://www.defenddemocracy.press/scientists-warn-of-potential-serious-health-effects-of-5g/
+## Извадка боледували и със усложнения
+
+- Анкета за боледували в България:
+  https://www.facebook.com/groups/1493230050845048/permalink/1493237274177659/
 
 [^1]: https://tass.ru/obschestvo/2063018
 [^2]: https://www.scholarsresearchlibrary.com/articles/a-brief-review-microwave-assisted-organic-reaction.pdf
 [^3]: https://www.ncbi.nlm.nih.gov/pubmed/31931652
-
-## Извадка боледували и със усложнения (починали)
-
-- Анкета за боледували в България:
-  https://www.facebook.com/groups/1493230050845048/permalink/1493237274177659/
