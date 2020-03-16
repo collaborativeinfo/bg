@@ -1,6 +1,20 @@
-## Медицински
+## Въведение
+
+За момента това е страница тип [Brain Storming](https://bg.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B7%D1%8A%D1%87%D0%BD%D0%B0_%D0%B0%D1%82%D0%B0%D0%BA%D0%B0).
+Целта е да събера повече твърдения подкрепени с поне две референции.
+
+Интереса за сега е върху усложненията (по-скоро леталните), както и разпространението на вируса.
 
 https://en.wikipedia.org/wiki/Coronavirus
+
+Според записки вирусът е известен от 1960г. [^1]
+
+През есента на 2002 година са започнали да наблюдават сериозен брой смъртни случаи в Китай,
+продължили поразиите до 2003.
+Въпреки високата смъртност разпространението спрямо 2020 е несравнимо малко.
+
+Предполагам че от откриването си до сега е имал пикове и падове в разпространението си 
+но те да са останали незабелязани.
 
 ### [2003 SARS-CoV](https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus)
 
@@ -28,15 +42,26 @@ https://en.wikipedia.org/wiki/Middle_East_respiratory_syndrome-related_coronavir
 Bat SARS Cov Rs806/2006 spike protein gene <> SARS2 Wuhan-Hu-1, complete genome
 https://www.ebi.ac.uk/Tools/services/web/toolresult.ebi?jobId=clustalo-I20200315-230920-0515-19469457-p2m
 
+## Разпространение
+
+### Чрез животни и лоша хигиена
+
+Първите случаи са открити при [прилепи и камили](https://duma.bg/?go=news&p=detail&nodeId=102614).
+
+(Допирът на Китайците до животински секрети.)[https://www.youtube.com/watch?v=rbHxeOQA1Mc]
+
+_Колко време здрав човек може да е преносител на вируса?_
+_Възможно ли е при здрава имунна система вирусната амино киселина да се разгражда бързо?_
+
 ## Хипотетични причини за летални усложнения при SARS-CoV
 
 ### 5G влияе на развитието на SARS-CoV
 
 Нулевата хипотеза е че 5G не влияе на развитието на вируса.
 
-- Спомагане размножаване на вируси [^1]
+- Спомагане размножаване на вируси [^2]
 
-- Hematopoietic and intestinal systems side effects are frequently found in patients who suffered from accidental or medical radiation exposure. [^2]
+- Hematopoietic and intestinal systems side effects are frequently found in patients who suffered from accidental or medical radiation exposure. [^3]
 
 
 Реално все още не мога да тествам алтернативата тъй като липсва в интернет информация за конкретни честоти и интензитет на използваните мрежи, които крайните клиенти използват във Wuhan и Milano.
@@ -64,5 +89,11 @@ https://www.lifewire.com/5g-availability-world-4156244
 
 http://www.defenddemocracy.press/scientists-warn-of-potential-serious-health-effects-of-5g/
 
-[^1]: https://www.scholarsresearchlibrary.com/articles/a-brief-review-microwave-assisted-organic-reaction.pdf
-[^2]: https://www.ncbi.nlm.nih.gov/pubmed/31931652
+[^1]: https://tass.ru/obschestvo/2063018
+[^2]: https://www.scholarsresearchlibrary.com/articles/a-brief-review-microwave-assisted-organic-reaction.pdf
+[^3]: https://www.ncbi.nlm.nih.gov/pubmed/31931652
+
+## Извадка боледували и със усложнения (починали)
+
+- Анкета за боледували в България:
+  https://www.facebook.com/groups/1493230050845048/permalink/1493237274177659/
