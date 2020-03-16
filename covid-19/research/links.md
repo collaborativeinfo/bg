@@ -23,25 +23,26 @@ https://en.wikipedia.org/wiki/Middle_East_respiratory_syndrome-related_coronavir
 [Crystal structure (monoclinic form) of the complex resulting from the reaction between SARS-CoV-2 (2019-nCoV)](https://www.ebi.ac.uk/pdbe/entry/pdb/6y2f)
 
 
-### Fasta comparison
+### Чернова. Проследяване на различните SARS от 2002 до сега
 
 Bat SARS Cov Rs806/2006 spike protein gene <> SARS2 Wuhan-Hu-1, complete genome
 https://www.ebi.ac.uk/Tools/services/web/toolresult.ebi?jobId=clustalo-I20200315-230920-0515-19469457-p2m
 
-## Хипотетични причини за усложнения
+## Хипотетични причини за летални усложнения при SARS-CoV
 
-### Специфичен Радиофон допринасящ за
+### 5G влияе на развитието на SARS-CoV
+
+Нулевата хипотеза е че 5G не влияе на развитието на вируса.
 
 - Спомагане размножаване на вируси [^1]
 
 - Hematopoietic and intestinal systems side effects are frequently found in patients who suffered from accidental or medical radiation exposure. [^2]
 
 
-Съществен проблем е че липсва информация за конкретни честоти и интензитет на използваните мрежи, които крайните клиенти използват във Wuhan и Milano.
+Реално все още не мога да тествам алтернативата тъй като липсва в интернет информация за конкретни честоти и интензитет на използваните мрежи, които крайните клиенти използват във Wuhan и Milano.
 Липсва информация и за честотите на тестовите постановки по света които се монтират началото на 2020.
 
 Липсват тестови анализи за ефектите от 5G
-Тестове с мишки или хора от FCC или друга институция отсъства в интернет пространството.
 
 ### Хронология на промяна на Радиофона по света от 5G
 
