@@ -2,24 +2,37 @@
 
 https://en.wikipedia.org/wiki/Coronavirus
 
-[SARS-CoV](https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus)
+### [2003 SARS-CoV](https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus)
 
-[SARS-CoV-2](https://en.wikipedia.org/wiki/SARS-CoV-2)
+[2002–2004_SARS_outbreak](https://en.wikipedia.org/wiki/2002%E2%80%932004_SARS_outbreak)
 
-https://www.ncbi.nlm.nih.gov/nuccore/NC_045512.2?report=graph
+[Bat SARS Cov Rs806/2006 spike protein gene](https://www.ncbi.nlm.nih.gov/nuccore/FJ588692.1)
 
-https://www.ebi.ac.uk/pdbe/entry/pdb/2bez sars-cov-2003
+[Structure of a proteolitically resistant core from the severe acute respiratory syndrome coronavirus S2 fusion protein,  Released: 22 Dec 2004 ](https://www.ebi.ac.uk/pdbe/entry/pdb/2bez)
 
-https://www.ebi.ac.uk/pdbe/entry/pdb/6y2f 
-
-https://www.ncbi.nlm.nih.gov/pubmed/27454111
+### 2012 Middle East respiratory syndrome-related coronavirus
 
 https://en.wikipedia.org/wiki/Middle_East_respiratory_syndrome-related_coronavirus
 
-Fasta comparison 
+### [SARS-CoV-2](https://en.wikipedia.org/wiki/SARS-CoV-2)
+
+[Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome.](https://www.ncbi.nlm.nih.gov/nuccore/NC_045512.2)
+
+[X-Ray Structural and Biological Evaluation of a Series of Potent and Highly Selective Inhibitors of Human Coronavirus Papain-Like Proteases](https://www.ebi.ac.uk/pdbe/entry/pdb/4ovz)
+
+[Crystal structure (monoclinic form) of the complex resulting from the reaction between SARS-CoV-2 (2019-nCoV)](https://www.ebi.ac.uk/pdbe/entry/pdb/6y2f)
+
+
+### Fasta comparison
+
+Bat SARS Cov Rs806/2006 spike protein gene <> SARS2 Wuhan-Hu-1, complete genome
 https://www.ebi.ac.uk/Tools/services/web/toolresult.ebi?jobId=clustalo-I20200315-230920-0515-19469457-p2m
 
-## Произволни факти
+## Хипотетични причини за усложнения
+
+### Специфичен Радиофон
+
+[EUROPAEM EMF Guideline 2016](https://www.ncbi.nlm.nih.gov/pubmed/27454111)
 
 [Taiwan bids.](https://www.digitimes.com/news/a20200116PD221.html)
 
@@ -38,9 +51,3 @@ https://www.vodafone5g.it/5G-a-milano.php?lang=EN
 https://www.lifewire.com/5g-availability-world-4156244
 
 http://www.defenddemocracy.press/scientists-warn-of-potential-serious-health-effects-of-5g/
-
-
-
-
-SARS-CoV
-SARS-CoV-2 
