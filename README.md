@@ -28,8 +28,8 @@
 
 ## Covid-19 Теми
 
+- [Образование и предложения](./covid-19)
 - [Световни новини](./covid-19/world-news.md)
-- [Хипотези и референции](./covid-19/research)
 - [Какво да правя докато трае карантината?](covid-19/advices/living_quarantine.md)
 - [Храна](./covid-19/cheap_food.md)
 - [Какво да правим ако не се чувстваме добре?](covid-19/advices/discomfort_steps.md)
@@ -37,5 +37,5 @@
 
 Replicated at:
 
-https://gitlab.com/collaborative/infobg/-/tree/master/x
-https://github.com/collaborativeinfo/bg
+- https://gitlab.com/collaborative/infobg
+- https://github.com/collaborativeinfo/bg
