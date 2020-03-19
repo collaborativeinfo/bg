@@ -1,3 +1,5 @@
+https://www.facebook.com/preshelkov/posts/2958755464168202
+
 https://www.mh.government.bg/bg/informaciya-za-grazhdani/potvrdeni-sluchai-na-koronavirus-na-teritoriyata-na-r-blgariya/
 
 https://www.statista.com/topics/5994/the-coronavirus-disease-covid-19-outbreak
