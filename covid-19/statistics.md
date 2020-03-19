@@ -1,3 +1,5 @@
+Прекрасен анализ.
+Но за жалост този човек прави това действие еднократно и не е въвлечен активно в нализа на данни.
 https://www.facebook.com/preshelkov/posts/2958755464168202
 
 https://www.mh.government.bg/bg/informaciya-za-grazhdani/potvrdeni-sluchai-na-koronavirus-na-teritoriyata-na-r-blgariya/

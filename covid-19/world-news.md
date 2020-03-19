@@ -38,3 +38,11 @@ https://www.vesti.bg/temi-v-razvitie/tema-koronavirus/lekarite-ot-kuba-tajnoto-o
 https://www.facebook.com/groups/358733368308010/permalink/618808498967161/
 
 Не ми трябват тези 1000лв.след толкова обиди и пренебрежения ! Не ми трябват ръкоплясканията от тези , които днес викат ”Осанна” ,а до вчера крещяха ”Разпни ги” ! Искам си контакта с близките ! Кой решава , че до вчера може и без нас , а днес сме нужни и сме длъжни да работим в условия на зараза ? Може да не съм на ”първа ”линия” , но кой ще гарантира на семейството ми , че няма да се разболея ! Кой ще изтрие страха в очите им от това , че работя с пациенти всякакви и дали няма да ги заразя ! Кой ще премахне болката от сърцето ми , че съм изолирана от децата си , от възрастната ми майка и от новороденото си внуче ? Кой ще гарантира , че няма да ги заразя , за да не се страхуват от мен ! Чувствам се като прокажена , заради нехайството на управляващите , заради забавянето с превантивните мерки ! Как не може да се предоставят бързи тестове за здравните работници , за да имаме яснота , а не всеки ден след обслужване на много и безотговорни хора , да се разкъсваме от съмнение ... ами ако пренеса вируса на близките ми ...? Обичам ви и колкото и да ме боли , ще бъда изолирана заради вас ! Крепи ме само това : Пази се много мамо ! ... Имам нужда от теб дъще !.... На всички колеги желая здраве , пазете себе си и любимите ви хора ! На тях сме задължени , на никой друг !
+
+----- 
+
+12.03.2020
+
+“No-one knows how many infections circulate in wildlife populations or under what circumstances they could create the next human pandemic," said Dominic Jermey, director general of ZSL. "But if we know the risk factors for zoonotic virus spill-over, we can put in place safety measures to stop it happening in the first place without adversely affecting wild animals in which the viruses occur naturally. These links between wildlife and human health are increasingly recognised but still very poorly understood.
+"Often public health research, practice and the implementation of policy happens without consideration of how natural systems work, and the pathways through which people’s health is affected by wildlife’s."
+https://www.independent.co.uk/news/science/coronavirus-animals-london-zoo-covid-19-a9398046.html
