@@ -18,6 +18,9 @@ https://ncov2019.live
 Цялостни съвети за болни и неболни, докторите ги знаят но ги няма черно на бяло написани:
 https://www.btv.bg/video/shows/120-minuti/videos/d-r-plamen-maslarski-njama-nito-edno-dete-dosega-s-ostar-respiratoren-problem-vsledstvie-na-koronavirusa.html
 
+Italian doctor on treating COVID-19 patients
+https://www.youtube.com/watch?v=wohTFdqCurA
+
 Модел с текущите данни е крайно оскъден.
 Липсващи данни от статистиките:
 - градове
