@@ -30,10 +30,10 @@
 
 - [Световни новини](./covid-19/world-news.md)
 - [Хипотези и референции](./covid-19/research)
-- [Какво да правя докато трае карантината?](./covid-19/living_quarantine.md)
+- [Какво да правя докато трае карантината?](covid-19/advices/living_quarantine.md)
 - [Храна](./covid-19/cheap_food.md)
-- [Какво да правим ако не се чувстваме добре?](./covid-19/discomfort_steps.md)
-- [Какво да правя с финансите по време на карантината?](./covid-19/finance_quarantine.md)
+- [Какво да правим ако не се чувстваме добре?](covid-19/advices/discomfort_steps.md)
+- [Какво да правя с финансите по време на карантината?](covid-19/advices/finance_quarantine.md)
 
 Replicated at:
 
