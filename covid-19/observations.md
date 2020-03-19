@@ -27,3 +27,6 @@ https://www.facebook.com/science.and.critical.thinking/photos/a.337253216295983/
  Затова не яжте диви и не добре опечени животни!
  
  Източник: Andersen, K.G., Rambaut, A., Lipkin, W.I. et al. The proximal origin of SARS-CoV-2. Nat Med (2020). https://doi.org/10.1038/s41591-020-0820-9"
+
+
+Хумористично: Перфектната хигиена https://www.facebook.com/groups/143320586290460/permalink/562997730989408/
