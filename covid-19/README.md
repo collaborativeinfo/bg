@@ -49,6 +49,7 @@ https://www.researchgate.net/publication/340023811_Forecast_of_the_free_developm
 ## Върху какво да работим?
 
 Развиване на информационните инструменти
+- https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/
 - образование Bioinformatics for Beginners by Supratim Choudhuri
 - развиване на Метаболомика
 - Отворени данни https://data.egov.bg/data/resourceView/318479f7-ef31-4fd4-98ec-3ea3365f86c7
