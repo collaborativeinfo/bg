@@ -1,3 +1,8 @@
+23.03.2020
+
+Фалшива Солидарност
+https://www.facebook.com/peeter.biski/posts/660172017860463
+
 18.03.2020
 
 https://www.vesti.bg/temi-v-razvitie/tema-koronavirus/lekarite-ot-kuba-tajnoto-oryzhie-sreshtu-koronavirus-6107073
