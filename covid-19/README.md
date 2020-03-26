@@ -144,6 +144,16 @@ _Може ли да се установят граници за излагане
 
 http://www.defenddemocracy.press/scientists-warn-of-potential-serious-health-effects-of-5g/
 
+### Информация покриващи клетки
+
+- https://www.huawei.com/en/press-events/news/2019/10/huawei-5g-antenna-whitepaper
+- https://www.ericsson.com/en/reports-and-papers/white-papers/advanced-antenna-systems-for-5g-networks
+
+#№# Информация мобилни
+
+- https://consumer.huawei.com/en/routers/5g-cpe-pro/specs/
+- Изразходена енергия телефон https://youtu.be/uD11o-54P4s?t=431
+
 ### Статистика за покритие на 5G
 
 [Taiwan bids.](https://www.digitimes.com/news/a20200116PD221.html)
