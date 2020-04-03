@@ -5,6 +5,13 @@
 
 Все пак единици учени са работили по темата, и са се опитвали да инициират някакви проучвания.
 
+icnirp.org съобщават за проучвания докладвали биологични изменения и по конкретно тумори.
+За жалост не са одобрили статистическите методи които са използвани.
+Какви са статистическите методи които верифицират добруването на организма?
+
+https://www.icnirp.org/en/frequencies/radiofrequency/index.html
+https://www.icnirp.org/cms/upload/publications/ICNIRPrfgdl2020.pdf
+
 https://en.wikipedia.org/wiki/Extremely_high_frequency
 
 https://www.youtube.com/watch?v=AvZj11KZ-xk
