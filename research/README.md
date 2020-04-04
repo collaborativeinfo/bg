@@ -37,19 +37,6 @@ https://en.wikipedia.org/wiki/Middle_East_respiratory_syndrome-related_coronavir
 Bat SARS Cov Rs806/2006 spike protein gene <> SARS2 Wuhan-Hu-1, complete genome
 https://www.ebi.ac.uk/Tools/services/web/toolresult.ebi?jobId=clustalo-I20200315-230920-0515-19469457-p2m
 
-## Разпространение
-
-### Добра устойчивост комбинирана с непрекъснато пътуване около света
-
-### Чрез животни и лоша хигиена
-
-Първите случаи са открити при [прилепи и камили](https://duma.bg/?go=news&p=detail&nodeId=102614).
-
-[Допирът на Китайците до животни и секрети е умопомрачаващ.](https://www.youtube.com/watch?v=rbHxeOQA1Mc)
-
-_Колко време здрав човек може да е преносител на вируса?_
-_Може ли да се установят граници за излагане на вируса и състояние на метаболизма при които вируса няма да се прояви?_
-
 ## Извадка боледували и със усложнения
 
 - Анкета за боледували в България:
