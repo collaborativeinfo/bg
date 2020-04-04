@@ -1,7 +1,3 @@
-Медицината преди модерните технологии:
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2913884/
-- https://en.wikipedia.org/wiki/History_of_surgery#Trepanation
-
 ## Създаден ли е изкуствено вируса?
 
 Относно вероятността за биотероризъм.

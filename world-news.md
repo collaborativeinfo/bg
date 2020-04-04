@@ -1,7 +1,7 @@
-23.03.2020
+04.04.2020
 
-Фалшива Солидарност
-https://www.facebook.com/peeter.biski/posts/660172017860463
+Мобилно приложение и регистър ще събират и съхраняват данни за здравния ни статус 
+https://news.bnt.bg/news/mobilno-prilozhenie-i-registar-shte-sabirat-i-sahranyavat-danni-za-zdravniya-ni-status-1047273news.html
 
 18.03.2020
 
