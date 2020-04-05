@@ -51,6 +51,7 @@ https://www.youtube.com/watch?v=wohTFdqCurA
 
 www.focus-news.net/news/2020/03/15/2757332/vitsepremierat-krasimir-karakachanov-sreshtu-borbata-ni-s-koronavirus-obshtestvoto-shte-ostraktira-heytovete-gavradzhiystvoto-i-pomiyarshtinata.html
 
+### Как ще се анонимизират и обединяват публични данни?
 
 ## Симптоми и лечение
 
