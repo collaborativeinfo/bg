@@ -1,12 +1,16 @@
 # Информация за Ковид-19
 
-## Симптоми и лечение
+## Добри формат за събиране на медицински данни
 
-- 03.04.2020  [Шефът на Инфекциозната клиника във ВМА – за симптомите и лечението на коронавируса](https://www.vbox7.com/play:b0a396f4b2)
-- 16.03.2020 [Ninja Nerd Science - Epidemiology, Pathophysiology, Diagnostics](https://www.youtube.com/watch?v=PWzbArPgo-o)
-- pubmed
+- https://specifications.openehr.org/releases/BASE/latest/base_types.html
+- https://www.openehr.org/ckm
 
-## Разпространение
+## Източници на данни
+
+### Движение на индивиди
+ https://www.blog.google/technology/health/covid-19-community-mobility-reports
+
+### Заболеваемост по държави
 
 https://www.mh.government.bg/bg/informaciya-za-grazhdani/potvrdeni-sluchai-na-koronavirus-na-teritoriyata-na-r-blgariya/
 
@@ -46,6 +50,13 @@ https://www.youtube.com/watch?v=wohTFdqCurA
 Статистиката може да изкарва политически некоректни факти.
 
 www.focus-news.net/news/2020/03/15/2757332/vitsepremierat-krasimir-karakachanov-sreshtu-borbata-ni-s-koronavirus-obshtestvoto-shte-ostraktira-heytovete-gavradzhiystvoto-i-pomiyarshtinata.html
+
+
+## Симптоми и лечение
+
+- 03.04.2020  [Шефът на Инфекциозната клиника във ВМА – за симптомите и лечението на коронавируса](https://www.vbox7.com/play:b0a396f4b2)
+- 16.03.2020 [Ninja Nerd Science - Epidemiology, Pathophysiology, Diagnostics](https://www.youtube.com/watch?v=PWzbArPgo-o)
+- pubmed
 
 - 22.01.2020 [laowhy86 - China's Coronavirus is Much Worse Than You Think](https://www.youtube.com/watch?v=VLp8CHeKQkI)
 Каква е ролята на миграцията на работници от различни части на Китай към разпространението?

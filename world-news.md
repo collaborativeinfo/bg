@@ -1,4 +1,8 @@
 04.04.2020
+- САЩ реже заплатите на докторите които не работят с COVID
+  https://twitter.com/CameronNBeach/status/1246183339364622336
+
+04.04.2020
 
 Мобилно приложение и регистър ще събират и съхраняват данни за здравния ни статус 
 https://news.bnt.bg/news/mobilno-prilozhenie-i-registar-shte-sabirat-i-sahranyavat-danni-za-zdravniya-ni-status-1047273news.html
