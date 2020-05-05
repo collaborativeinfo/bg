@@ -45,3 +45,13 @@ https://www.ebi.ac.uk/Tools/services/web/toolresult.ebi?jobId=clustalo-I20200315
 [^1]: https://tass.ru/obschestvo/2063018
 [^2]: https://www.scholarsresearchlibrary.com/articles/a-brief-review-microwave-assisted-organic-reaction.pdf
 [^3]: https://www.ncbi.nlm.nih.gov/pubmed/31931652
+
+## Насоки за изследване на методи за лечение
+
+**ВНИМАНИЕ, тази секция е с цел събиране на концепции, които специалисти да анализират и пробват.**
+**ВНИМАНИЕ, моля НЕ изпробвайте нещата които са реферирани без консултация с личен лекар.**
+
+## Газове
+
+- https://www.researchgate.net/post/What_is_the_effect_of_Ozone_Therapy_on_COVID-19_protection
+- https://www.varna24.bg/novini/Bylgaria/Bulgarsko-izobretenie-v-borbata-s-koronavirusa-948711

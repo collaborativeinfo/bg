@@ -1,3 +1,12 @@
+05.05.2020
+[Getting Virus experience, JACOB CAUGHT CORONAVIRUS](https://youtu.be/ePiwFEOvlN0)
+
+24.04.2020
+[Briefing: Current Quarantine Approach Wrong Based on Science | Dr Erickson & Dr Massihi Pt1](https://youtu.be/vJprwe_rWeM)
+
+18.04.2020
+[Българите по света. Какво е да хванеш вируса?](https://btvplus.bg/produkt/predavaniya/24261/karbovski-vtori-plan-sezon-7/karbovski-vtori-plan-18-04-2020)
+
 04.04.2020
 - САЩ реже заплатите на докторите които не работят с COVID
   https://twitter.com/CameronNBeach/status/1246183339364622336
